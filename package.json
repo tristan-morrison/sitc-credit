@@ -1,0 +1,11 @@
+{
+  "name": "sitc-credit",
+  "version": "1.0.0",
+  "description": "An app for volunteers of the Detroit non-profit Summer in the City to check their number of logged service hours.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tristan Lopus",
+  "license": "ISC"
+}
